@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Grebell
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Grebell
+- 👀 I’m interested in all of it
+- 🌱 I’m currently learning Computer Forensics
+- 💞️ I’m looking to collaborate on Anything
+- 📫 How to reach me Wr.billings02@gmail.com
 
 <!---
 Grebell/Grebell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
