@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Forensics
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me Wr.billings02@gmail.com
-- most projects are private sorry
+- most (if all) projects are private sorry
 
 <!---
 Grebell/Grebell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
