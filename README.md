@@ -4,6 +4,7 @@
 - 📫 Reach me Wr.billings02@gmail.com
 - Most (if all) projects are private; sorry!! im working on this, in the meantime have a bunny!
 ```
+
                       /|      __
 *             +      / |   ,-~ /             +
      .              Y :|  //  /                .         *
@@ -21,6 +22,7 @@
                ]\      _\    /"\
               (" ~----( ~   Y.  )
           ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ```
 <!---
 Grebell/Grebell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
