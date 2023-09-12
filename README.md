@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Grebell
 - 👀 I’m interested in all of it
 - 🌱 I’m currently learning Network Security
-- 📫 Reach me Wr.billings02@gmail.com
+- 📫 Reach me @grebell on discord or Wr.billings02@gmail.com
 - Most (if all) projects are private; sorry!! I'm working on this; in the meantime, have a bunny!
 ```
 
