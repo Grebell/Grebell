@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Network Security
 - 📫 Reach me Wr.billings02@gmail.com
 - Most (if all) projects are private; sorry!! im working on this, in the meantime have a bunny!
-<div>
+```
                       /|      __
 *             +      / |   ,-~ /             +
      .              Y :|  //  /                .         *
@@ -21,7 +21,7 @@
                ]\      _\    /"\
               (" ~----( ~   Y.  )
           ~~~~~~~~~~~~~~~~~~~~~~~~~~
-</div>
+```
 <!---
 Grebell/Grebell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
