@@ -2,10 +2,10 @@
 
 ---
 
-- :rabbit: I'm **[Grebell](https://grebell.github.io/ "Grebell Gitpage")!** i do security, rn an IR analyst
-- :books: Currently hopping between Sec+ and CCNA
+- :rabbit: I'm **[Grebell](https://grebell.github.io/ "Grebell Gitpage")!**
+- :bug: IT Security/Incident Response Analyst
+- :books: Currently hopping between Sec+ and CCNA study as well as working on my homelab
 - :iphone: The best place to reach me is **@grebell** on discord
-- :bug: I'm currently working on my home lab
 - :musical_note: for fun I play and write [music](https://www.youtube.com/channel/UCNJB-b-Fcd4mm_PK7cb6_QQ "Grebell Youtube"), as well as enjoy some [MTG](https://www.moxfield.com/users/Grebell "Grebell Moxfield")
 - :lock: Alumni of OSEC and SSH team memeber.
   
