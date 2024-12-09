@@ -6,7 +6,7 @@
 - :bug: IT Security/Incident Response Analyst
 - :books: Currently hopping between Sec+ and CCNA study as well as working on my homelab
 - :iphone: The best place to reach me is **@grebell** on discord
-- :musical_note: for fun I play and write [music](https://www.youtube.com/channel/UCNJB-b-Fcd4mm_PK7cb6_QQ "Grebell Youtube"), as well as enjoy some [MTG](https://www.moxfield.com/users/Grebell "Grebell Moxfield")
+- :musical_note: for fun I play and write [music](https://www.youtube.com/channel/UCNJB-b-Fcd4mm_PK7cb6_QQ "Grebell Youtube") may start uploading drum covers???!, as well as enjoy some [MTG](https://www.moxfield.com/users/Grebell "Grebell Moxfield") although ive been messing around with other TCGs aswell
 - :lock: Alumni of OSEC and SSH team memeber.
   
 [![My Skills](https://skillicons.dev/icons?i=java,c,cs,py,bash,powershell,html,css&theme=dark)](https://skillicons.dev)
